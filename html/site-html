@@ -1,0 +1,267 @@
+<html>
+  <head>
+    
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+
+    <link href="slider.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" rel="stylesheet" type="text/css" />
+    
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js" type="text/javascript">
+    </script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="slick-bg.js"></script>
+    
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    
+  </head>
+  
+    <header>
+    <div class="announcement-bar">
+      <p class="announcement page-width">FREE SHIPPING ON ALL ORDERS OVER $75</p>
+    </div>
+      
+      <div class="main-nav page-width">
+        
+        <div class="desktop--hide small--one-third">
+            
+            <p class="mobile-nav"><img id="trigger-overlay" type="button" class="hamburger" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Hamburger.png?raw=true"></img></p>
+<div class="overlay overlay-slidedown">
+			<button type="button" class="overlay-close">Close</button>
+			<nav>
+				<ul>
+					<li><a href="#">Womens</a></li>
+					<li><a href="#">Mens</a></li>
+					<li><a href="#">Accessories</a></li>
+					<li><a href="#">Sale</a></li>
+				</ul>
+			</nav>
+		</div>
+            
+          </div>
+        
+        <div class="navigation small--one-third">    
+          
+          <img data-aos="zoom-in" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Logo.png?raw=true" class="logo"></img>
+        
+        </div>
+      
+        <div class="desktop--hide mobile-cart small--one-third">
+          <img class="cart" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/cart.png?raw=true">
+</div>
+            
+          
+        
+        <div class="desktop-nav">
+        <a href="#" class="nav-item"><span>Womens</span></a>
+          <a href="#" class="nav-item"><span>Mens</span></a>
+          <a href="#" class="nav-item"><span>Accessories</span></a>
+          <a href="#" class="nav-item"><span>Sale</span></a>
+        </div>
+        </div>
+      </div>
+  </header>
+  
+  <body class="main-content">
+    
+    <div class="slideshow-wrapper full-width">
+      
+      <div class="ct-header ct-header--slider ct-slick-custom-dots" id="home">
+        <div class="ct-slick-homepage" id="main-slider">
+              <div class="ct-header tablex item" data-background="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Hero%20Image%201.jpg?token=AKJV2G5TI6DX6ACSSYYVT427JMVRU">
+                  <div class="ct-u-display-tablex">
+                      <div class="inner">
+                          <div class="container">
+                              <div class="row">
+                                  <div class="col-md-8 col-lg-6 slider-inner">
+                                        <h1 class="hero-title">Title 1 Goes Here.</h1>
+                                          <div class="hero-text">Tagline 1 will go here.</div>
+                                          <a class="btn btn-slideshow text-uppercase" href="#">SHOP NOW</a></div>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+              <div class="ct-header tablex item" data-background="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Hero%20Image%201.jpg?token=AKJV2G5TI6DX6ACSSYYVT427JMVRU">
+                  <div class="ct-u-display-tablex">
+                      <div class="inner">
+                          <div class="container">
+                              <div class="row">
+                                  <div class="col-md-8 col-lg-6 slider-inner">
+                                        <h1 class="hero-title">Title 2 Goes Here.</h1>
+                                          <div class="hero-text">Tagline 2 will go here.</div>
+                                          <a class="btn btn-slideshow text-uppercase" href="#">SHOP NOW</a></div>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+    </div>
+  </div>
+      </div>
+       
+    
+    <div class="featured-blocks section page-width">
+      <div class="featured-blocks__grid">
+      <div class="featured-block-wrapper grid-item medium-up--one-third small--one-half">
+        <div class="img-hover-zoom">
+          <a href="#">
+        <img class="featured-block-image" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Womens%20Image.jpg?token=AKJV2G6GVR7TSDY3NXPSZRC7JMVT6"></img>
+          
+      </div>
+        <div class="featured-title"><span>Womens</span></div>
+      </a>
+      </div>
+      <div class="featured-block-wrapper grid-item medium-up--one-third small--one-half">
+        <div class="img-hover-zoom">
+          <a href="#">
+        <img class="featured-block-image" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Mens%20Image.jpg?token=AKJV2G7YTMJ3Z7BDS4U73TK7JMVT2"></img>
+          
+      </div>
+      <div class="featured-title"><span>Mens</span></div>
+      </a>
+      </div>
+      <div class="featured-block-wrapper grid-item medium-up--one-third small--one-whole">
+        <div class="img-hover-zoom">
+          <a href="#">
+        <img class="featured-block-image small--hide" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Accessories%20Image.jpg?token=AKJV2G6GXXRDSUF2GIPH4327JMVV6"></img>
+          <img class="featured-block-image desktop--hide" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Accessories%20Image%20Mobile.jpg?raw=true"></img>
+          
+      </div>
+      <div class="featured-title"><span>Accessories</span></div>
+      </a>
+      </div>
+    </div>
+    </div>
+    
+<div class="page-width section">
+    <h2 class="section-header">New Arrivals</h2>
+  <div class="product-slider__container">
+    <ul class="product-slider">
+      <div class="single-product">
+        <img class="product-photo" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Product%20Image%201.jpg?token=AKJV2G5FK6ABFVP6XGRXIJK7JMVZQ">
+          <div class="product-title">Product Title</div>
+          <div class="product-subtext">Women's T-Shirt</div>
+          <div class="product-price">$19.99</div>
+      </div>
+       <div class="single-product">
+        <img class="product-photo" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Product%20Image%201.jpg?token=AKJV2G5FK6ABFVP6XGRXIJK7JMVZQ">
+          <div class="product-title">Product Title</div>
+          <div class="product-subtext">Women's T-Shirt</div>
+          <div class="product-price">$19.99</div>
+      </div>
+      <div class="single-product">
+        <img class="product-photo" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Product%20Image%201.jpg?token=AKJV2G5FK6ABFVP6XGRXIJK7JMVZQ">
+          <div class="product-title">Product Title</div>
+          <div class="product-subtext">Women's T-Shirt</div>
+          <div class="product-price">$19.99</div>
+      </div>
+      <div class="single-product">
+        <img class="product-photo" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Product%20Image%201.jpg?token=AKJV2G5FK6ABFVP6XGRXIJK7JMVZQ">
+          <div class="product-title">Product Title</div>
+          <div class="product-subtext">Women's T-Shirt</div>
+          <div class="product-price">$19.99</div>
+      </div>
+      <div class="single-product">
+        <img class="product-photo" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Product%20Image%201.jpg?token=AKJV2G5FK6ABFVP6XGRXIJK7JMVZQ">
+          <div class="product-title">Product Title</div>
+          <div class="product-subtext">Women's T-Shirt</div>
+          <div class="product-price">$19.99</div>
+      </div>
+      <div class="single-product">
+        <img class="product-photo" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Product%20Image%201.jpg?token=AKJV2G5FK6ABFVP6XGRXIJK7JMVZQ">
+          <div class="product-title">Product Title</div>
+          <div class="product-subtext">Women's T-Shirt</div>
+          <div class="product-price">$19.99</div>
+      </div>
+      <div class="single-product">
+        <img class="product-photo" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Product%20Image%201.jpg?token=AKJV2G5FK6ABFVP6XGRXIJK7JMVZQ">
+          <div class="product-title">Product Title</div>
+          <div class="product-subtext">Women's T-Shirt</div>
+          <div class="product-price">$19.99</div>
+      </div>
+      <div class="single-product">
+        <img class="product-photo" src="https://raw.githubusercontent.com/madisonmerchel/dyode-section-2/master/Product%20Image%201.jpg?token=AKJV2G5FK6ABFVP6XGRXIJK7JMVZQ">
+          <div class="product-title">Product Title</div>
+          <div class="product-subtext">Women's T-Shirt</div>
+          <div class="product-price">$19.99</div>
+      </div>
+    </ul>
+</div>
+</div>
+
+<div class="feature-row">
+  <div class="feature-content page-width">
+    <div class="hero-title" data-aos="fade-zoom-in" data-aos-duration="600">Title goes here.</div>
+    <div class="hero-text" data-aos="fade-zoom-in" data-aos-duration="600">Tagline will go here.</div>
+    <btn class="feature-btn" data-aos="fade-zoom-in" data-aos-duration="600">SHOP NOW</div>
+  </div>
+
+<div class="social-feed section page-width">
+  <h2 class="section-header">Follow Us on Instagram!</h2>
+  <div class="social-wrapper">
+    <img class="medium-up--one-fifth small--one-third social-item" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Social%201.jpg?raw=true"></img>
+    <img class="medium-up--one-fifth small--one-third social-item" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Social%202.jpg?raw=true"></img>
+    <img class="medium-up--one-fifth small--one-third social-item" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Social%203.jpg?raw=true"></img>
+    <img class="medium-up--one-fifth small--hide social-item" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Social%204.jpg?raw=true"></img>
+    <img class="medium-up--one-fifth small--hide social-item" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Social%205.jpg?raw=true"></img>
+  </div>
+  
+</div>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+  </body>
+  
+  <footer>
+    
+    <div class="newsletter">
+      <div class="page-width">
+      <h2 class="section-header"><img data-aos="zoom-in" data-aos-duration="600" class="newsletter-icon" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Email%20Icon.png?raw=true">Sign Up & Stay Connected</h2>
+      <div class="medium-up--one-half small--one-whole newsletter-text">Sign up for the newsletter and get 20% off! Gain access to exclusive offers and be the first to know when new stuff drops!</div>
+      <div class="medium-up--one-half small--one-whole email-field">
+        <form action="/action_page.php">          
+  <input class="email-input" type="email" id="email" name="email">
+          <input class="email-submit" type="submit">
+</form>
+        </div>
+      </div>
+    </div>
+    
+    <div class="footer-rows page-width">
+      <div class="footer-column medium-up--one-third small--one-whole">
+        <div class="footer-header accordion">Customer Service</div>
+        <div class="group">
+          <li>Accessibility</li>
+          <li>Contact Us</li>
+          <li>Return Policy</li>
+          <li>FAQ</li>
+          <li>Gift Certificates</li>
+          <li>Wishlist</li>
+        </div>
+      </div>
+      
+            <div class="footer-column medium-up--one-third small--one-whole">
+        <div class="footer-header accordion">Company</div>
+        <div class="group">
+          <li>About Us</li>
+          <li>Careers</li>
+          <li>Press</li>
+          <li>Affiliates</li>
+        </div>
+        </div>
+            <div class="footer-column social-icons medium-up--one-third small--one-whole">
+        <div class="footer-header follow-us">Follow Us</div>
+              <img class="social-icon" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Group%203.png?raw=true">
+              <img class="social-icon" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Group%208.png?raw=true">
+              <img class="social-icon" src="https://github.com/madisonmerchel/dyode-section-2/blob/master/Group%2015.png?raw=true">
+          
+        </div>
+    </div>
+    
+  </footer>
+  
+</html>
