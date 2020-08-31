@@ -12,4 +12,6 @@
 
 <h4>Preview Link</h4>
 
+<p>Below is a link to preview the 'site', which is accessible via desktop and mobile devices.</p>
+
 https://codepen.io/madisonmerchel/full/YzqQGap
